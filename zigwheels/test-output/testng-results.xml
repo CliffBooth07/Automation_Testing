@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-04T22:22:31 IST" name="Suite" finished-at="2023-07-04T22:23:47 IST" duration-ms="75185">
+    <groups>
+    </groups>
+    <test started-at="2023-07-04T22:22:31 IST" name="Test" finished-at="2023-07-04T22:23:47 IST" duration-ms="75185">
+      <class name="hackathonProject.zigwheels.Main.driverpro">
+        <test-method is-config="true" signature="beginSetup()[pri:0, instance:hackathonProject.zigwheels.Main.driverpro@70e9c95d]" started-at="2023-07-04T22:22:32 IST" name="beginSetup" finished-at="2023-07-04T22:22:40 IST" duration-ms="8496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beginSetup -->
+        <test-method signature="menuDisplayTest1()[pri:0, instance:hackathonProject.zigwheels.Main.driverpro@70e9c95d]" started-at="2023-07-04T22:22:40 IST" name="menuDisplayTest1" finished-at="2023-07-04T22:22:41 IST" duration-ms="954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuDisplayTest1 -->
+        <test-method signature="getBikeContent()[pri:1, instance:hackathonProject.zigwheels.Main.driverpro@70e9c95d]" started-at="2023-07-04T22:22:41 IST" name="getBikeContent" finished-at="2023-07-04T22:22:55 IST" duration-ms="14389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBikeContent -->
+        <test-method signature="navigateFromBikeToHome()[pri:2, instance:hackathonProject.zigwheels.Main.driverpro@70e9c95d]" started-at="2023-07-04T22:22:55 IST" name="navigateFromBikeToHome" finished-at="2023-07-04T22:22:59 IST" duration-ms="3197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateFromBikeToHome -->
+        <test-method signature="menuDisplayTest2()[pri:3, instance:hackathonProject.zigwheels.Main.driverpro@70e9c95d]" started-at="2023-07-04T22:22:59 IST" name="menuDisplayTest2" finished-at="2023-07-04T22:22:59 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuDisplayTest2 -->
+        <test-method signature="getCarContent()[pri:4, instance:hackathonProject.zigwheels.Main.driverpro@70e9c95d]" started-at="2023-07-04T22:22:59 IST" name="getCarContent" finished-at="2023-07-04T22:23:07 IST" duration-ms="8294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCarContent -->
+        <test-method signature="usdCar()[pri:4, instance:hackathonProject.zigwheels.Main.driverpro@70e9c95d]" started-at="2023-07-04T22:23:07 IST" name="usdCar" finished-at="2023-07-04T22:23:11 IST" duration-ms="3683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usdCar -->
+        <test-method signature="googleLogin()[pri:5, instance:hackathonProject.zigwheels.Main.driverpro@70e9c95d]" started-at="2023-07-04T22:23:11 IST" name="googleLogin" finished-at="2023-07-04T22:23:31 IST" duration-ms="20128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleLogin -->
+        <test-method signature="errMsg()[pri:6, instance:hackathonProject.zigwheels.Main.driverpro@70e9c95d]" started-at="2023-07-04T22:23:31 IST" name="errMsg" finished-at="2023-07-04T22:23:34 IST" duration-ms="3214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errMsg -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:hackathonProject.zigwheels.Main.driverpro@70e9c95d]" started-at="2023-07-04T22:23:34 IST" name="closeBrowser" finished-at="2023-07-04T22:23:47 IST" duration-ms="12393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- hackathonProject.zigwheels.Main.driverpro -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
